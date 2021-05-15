@@ -1,0 +1,187 @@
+[
+    {
+        "name": "3D",
+        "id_start": 1,
+        "id_end": 50
+    },
+    {
+        "name": "Abstract",
+        "id_start": 51,
+        "id_end": 100
+    },
+    {
+        "name": "Aircraft",
+        "id_start": 101,
+        "id_end": 150
+    },
+    {
+        "name": "Animal & Bird",
+        "id_start": 151,
+        "id_end": 200
+    },
+    {
+        "name": "Anime",
+        "id_start": 201,
+        "id_end": 250
+    },
+    {
+        "name": "Architecture",
+        "id_start": 251,
+        "id_end": 300
+    },
+    {
+        "name": "Art",
+        "id_start": 301,
+        "id_end": 350
+    },
+    {
+        "name": "Babies",
+        "id_start": 351,
+        "id_end": 400
+    },
+    {
+        "name": "Boken",
+        "id_start": 401,
+        "id_end": 450
+    },
+    {
+        "name": "Candle",
+        "id_start": 451,
+        "id_end": 500
+    },
+    {
+        "name": "Cartoon",
+        "id_start": 501,
+        "id_end": 550
+    },
+    {
+        "name": "Flowers",
+        "id_start": 551,
+        "id_end": 600
+    },
+    {
+        "name": "Food",
+        "id_start": 601,
+        "id_end": 650
+    },
+    {
+        "name": "Game",
+        "id_start": 651,
+        "id_end": 700
+    },
+    {
+        "name": "Girl",
+        "id_start": 701,
+        "id_end": 750
+    },
+    {
+        "name": "Kawaii",
+        "id_start": 751,
+        "id_end": 800
+    },
+    {
+        "name": "Love",
+        "id_start": 801,
+        "id_end": 850
+    },
+    {
+        "name": "Macro",
+        "id_start": 851,
+        "id_end": 900
+    },
+    {
+        "name": "Mask",
+        "id_start": 901,
+        "id_end": 950
+    },
+    {
+        "name": "Material",
+        "id_start": 951,
+        "id_end": 1000
+    },
+    {
+        "name": "Men",
+        "id_start": 1001,
+        "id_end": 1050
+    },
+    {
+        "name": "Minimal",
+        "id_start": 1051,
+        "id_end": 1100
+    },
+    {
+        "name": "Mountain",
+        "id_start": 1101,
+        "id_end": 1150
+    },
+    {
+        "name": "Multi Color",
+        "id_start": 1151,
+        "id_end": 1200
+    },
+    {
+        "name": "Music",
+        "id_start": 1201,
+        "id_end": 1250
+    },
+    {
+        "name": "Nature",
+        "id_start": 1251,
+        "id_end": 1300
+    },
+    {
+        "name": "Neon & Fireworks",
+        "id_start": 1301,
+        "id_end": 1350
+    },
+    {
+        "name": "Ocean",
+        "id_start": 1351,
+        "id_end": 1400
+    },
+    {
+        "name": "Quote",
+        "id_start": 1401,
+        "id_end": 1450
+    },
+    {
+        "name": "Reflection",
+        "id_start": 1451,
+        "id_end": 1500
+    },
+    {
+        "name": "Space",
+        "id_start": 1501,
+        "id_end": 1600
+    },
+    {
+        "name": "Sports",
+        "id_start": 1601,
+        "id_end": 1650
+    },
+    {
+        "name": "Stock",
+        "id_start": 1651,
+        "id_end": 1700
+    },
+    {
+        "name": "Texture",
+        "id_start": 1701,
+        "id_end": 1750
+    },
+    {
+        "name": "Tourism",
+        "id_start": 1751,
+        "id_end": 1800
+    },
+    {
+        "name": "Vehicles",
+        "id_start": 1801,
+        "id_end": 1850
+    },
+    {
+        "name": "Water Drop",
+        "id_start": 1851,
+        "id_end": 1900
+    }
+]

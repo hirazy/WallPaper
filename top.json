@@ -1,0 +1,48 @@
+{
+    "id_start": 1,
+    "id_end": 1900,
+    "category": [
+        {
+            "name": "Amoled",
+            "image1": "",
+            "image2": "",
+            "image3": "",
+            "image4": ""
+        },
+        {
+            "name": "Nature",
+            "image1": "",
+            "image2": "",
+            "image3": "",
+            "image4": ""
+        },
+        {
+            "name": "Multi Color",
+            "image1": "",
+            "image2": "",
+            "image3": "",
+            "image4": ""
+        },
+        {
+            "name": "3D",
+            "image1": "",
+            "image2": "",
+            "image3": "",
+            "image4": ""
+        },
+        {
+            "name": "Animal & Bird",
+            "image1": "",
+            "image2": "",
+            "image3": "",
+            "image4": ""
+        },
+        {
+            "name": "Double Wallppapers",
+            "image1": "",
+            "image2": "",
+            "image3": "",
+            "image4": ""
+        }
+    ]
+}
