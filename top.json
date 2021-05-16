@@ -4,45 +4,45 @@
     "category": [
         {
             "name": "Amoled",
-            "image1": "",
-            "image2": "",
-            "image3": "",
-            "image4": ""
+            "image1": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/image/1.jpg",
+            "image2": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/image/2.jpg",
+            "image3": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/image/3.jpg",
+            "image4": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/image/4.jpg"
         },
         {
             "name": "Nature",
-            "image1": "",
-            "image2": "",
-            "image3": "",
-            "image4": ""
+            "image1": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/image/5.jpg",
+            "image2": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/image/6.jpg",
+            "image3": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/image/7.jpg",
+            "image4": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/image/8.jpg"
         },
         {
             "name": "Multi Color",
-            "image1": "",
-            "image2": "",
-            "image3": "",
-            "image4": ""
+            "image1": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/image/9.jpg",
+            "image2": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/image/10.jpg",
+            "image3": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/image/11.jpg",
+            "image4": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/image/12.jpg"
         },
         {
             "name": "3D",
-            "image1": "",
-            "image2": "",
-            "image3": "",
-            "image4": ""
+            "image1": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/image/13.jpg",
+            "image2": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/image/14.jpg",
+            "image3": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/image/15.jpg",
+            "image4": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/image/16.jpg"
         },
         {
             "name": "Animal & Bird",
-            "image1": "",
-            "image2": "",
-            "image3": "",
-            "image4": ""
+            "image1": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/image/17.jpg",
+            "image2": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/image/18.jpg",
+            "image3": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/image/19.jpg",
+            "image4": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/image/20.jpg"
         },
         {
             "name": "Double Wallppapers",
-            "image1": "",
-            "image2": "",
-            "image3": "",
-            "image4": ""
+            "image1": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/image/21.jpg",
+            "image2": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/image/22.jpg",
+            "image3": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/image/23.jpg",
+            "image4": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/image/24.jpg"
         }
     ]
 }
