@@ -127,8 +127,10 @@
     },
     {
         "name": "Macro",
-        "id_start": 851,
-        "id_end": 900
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "image4": ""
     },
     {
         "name": "Mask",
