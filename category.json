@@ -1,24 +1,24 @@
 [
     {
         "name": "3D",
-        "image1": "",
-        "image2": "",
-        "image3": "",
-        "image4": ""
+        "image1": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/category/1.png",
+        "image2": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/category/2.png",
+        "image3": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/category/3.png",
+        "image4": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/category/4.png"
     },
     {
         "name": "Abstract",
-        "image1": "",
-        "image2": "",
-        "image3": "",
-        "image4": ""
+        "image1": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/category/5.png",
+        "image2": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/category/6.png",
+        "image3": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/category/7.png",
+        "image4": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/category/8.png"
     },
     {
         "name": "Aircraft",
-        "image1": "",
-        "image2": "",
-        "image3": "",
-        "image4": ""
+        "image1": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/category/9.png",
+        "image2": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/category/10.png",
+        "image3": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/category/11.png",
+        "image4": "https://raw.githubusercontent.com/hirazy2001/WallPaper/main/category/12.png"
     },
     {
         "name": "Amoled",
